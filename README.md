@@ -1,2 +1,2 @@
 # hello-world
-ideas
+I like Code, and I like musicals & documentaries.
